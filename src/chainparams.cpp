@@ -134,7 +134,6 @@ public:
         vSeeds.push_back(CDNSSeedData("nihilo.space", "ns7.nihilo.space"));
         vSeeds.push_back(CDNSSeedData("nihilo.space", "ns8.nihilo.space"));
         vSeeds.push_back(CDNSSeedData("nihilo.space", "ns9.nihilo.space"));
-        vSeeds.push_back(CDNSSeedData("nihilo.space", "128.199.32.161"));        
 
         //vSeeds.push_back(CDNSSeedData("shmest.win", "dns.shmest.win"));
 
