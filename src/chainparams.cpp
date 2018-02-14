@@ -165,7 +165,7 @@ public:
 
 		checkpointData = (CCheckpointData) {
 			boost::assign::map_list_of
-			(  0, uint256S("0x00000c62a60c42507246e548c2876864b976c69b3ab1d78c7454b0380f186e26"))
+			(0, consensus.hashGenesisBlock)
 			(  970, uint256S("0x0000000000163f47319439a16aea9e6717fc768613f0f4d9f0600b80e01fc9d3"))
 			(  1260, uint256S("0x00000000003d69ca8f90073a8392acb01dcbaf148bf82200853404e118d532f7")),
 			
